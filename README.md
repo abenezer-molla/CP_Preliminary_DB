@@ -51,6 +51,11 @@ Tables
   - department_total_bedrooms
   - doctor_id - ForeignKey('Doctors.doctor_id')
   - patient_id - ForeignKey('Patients.patient_id')
+  
+Areas to expand on this one will be-->
+
+DB for authentication(I think) should be together with this one instead of it being separate. 
+
 
 ####
 
